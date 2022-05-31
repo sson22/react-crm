@@ -1,10 +1,13 @@
-# it-project
+# University Group Project 
+CRM(Customer Relationship Management) platform was made using MERN stack with typescript.
 
-## Links
+# Key Functionalities 
 
-Trello: https://trello.com/invite/b/qzh3r4GF/7bb07c10e47e083f31f4f74b3e3acba7/itproject
-
-Confluence: https://ryan-p.atlassian.net/wiki/spaces/viewspacesummary.action?key=ITPROJECT#
+User Authentication (User Register/Login/Logout functions)
+Contact list (Customer/Employee contact list with Add/Edit/Delete functions)
+Calendar (Add/Edit/Delete Meeting functions)
+Profile (Add/Edit/Delete User details)
+Email (Email Employee/Meeting alert email)
 
 ## Getting Started
 
