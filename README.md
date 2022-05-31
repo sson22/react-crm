@@ -1,6 +1,7 @@
 # University Group Project 
 
 CRM(Customer Relationship Management) platform was made using MERN stack with typescript.
+
 In charge of 
 - UI/UX design using Adobe XD, Figma
 - User Log In/ Register Front-end page
