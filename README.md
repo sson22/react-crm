@@ -3,11 +3,11 @@ CRM(Customer Relationship Management) platform was made using MERN stack with ty
 
 # Key Functionalities 
 
-User Authentication (User Register/Login/Logout functions)
-Contact list (Customer/Employee contact list with Add/Edit/Delete functions)
-Calendar (Add/Edit/Delete Meeting functions)
-Profile (Add/Edit/Delete User details)
-Email (Email Employee/Meeting alert email)
+- User Authentication (User Register/Login/Logout functions)
+- Contact list (Customer/Employee contact list with Add/Edit/Delete functions)
+- Calendar (Add/Edit/Delete Meeting functions)
+- Profile (Add/Edit/Delete User details)
+- Email (Email Employee/Meeting alert email)
 
 ## Getting Started
 
