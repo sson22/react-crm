@@ -1,0 +1,57 @@
+body {
+  background-color: white;
+}
+
+.buttonColor {
+  background-color: blueviolet;
+}
+
+.verticalCenter {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(30%);
+}
+
+.segmentStyle {
+  background-color: #bfe6ff;
+}
+
+.white {
+  background-color: #f8f9fa;
+}
+
+.formContainer {
+  padding: 50px;
+  padding-left: 20%;
+}
+
+.welcomeText {
+  text-align: left;
+  font-size: 1.5em;
+  color: #002b54;
+  font-weight: bold;
+}
+
+.infoText {
+  color: #696969;
+  padding-bottom: 5px;
+  margin-top: -5px;
+}
+
+.forgotText {
+  text-align: left;
+  padding-right: 50px;
+  padding-bottom: 5px;
+  color: #002b54;
+}
+
+.loginButton {
+  margin-top: 10px;
+  width: 300px;
+}
+
+.inputForm {
+  width: 300px;
+  /* padding-bottom: 10px; */
+}

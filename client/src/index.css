@@ -1,0 +1,28 @@
+:root {
+  /*--- COLOR SCHEME ---*/
+  --white: white;
+  --lightGrey: #f8f9fa;
+  --navyBlue: #000b70;
+  --lightBlue: #2692d0;
+
+  --bg: var(--white);
+  --component: var(--lightGrey);
+}
+
+body {
+  background-color: var(--bg);
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.component {
+  background-color: var(--component);
+  border-radius: 8px;
+  padding: 30px 30px 30px;
+}
+
+.tightComponent {
+  background-color: var(--component);
+}
